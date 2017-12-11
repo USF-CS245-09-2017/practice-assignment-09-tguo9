@@ -3,7 +3,7 @@ public class Practice9Test {
 	
 	
 	public Practice9Test() {
-		// TODO: Need to create an instance?
+		
 	}
 	
 
